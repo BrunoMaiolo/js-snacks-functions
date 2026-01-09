@@ -7,10 +7,21 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Laura", "Alessandra"];
 function filterByLetter(nameArray, letter){
     let filteredNames = [];
     for (let i = 0; i < nameArray.length; i++) {
-        
-    }
+        let firstLetter = nameArray[i][0];
 
-}
+    if (firstLetter === letter) {
+    filteredNames.push(nameArray[i]);
+      } 
+    }
+    
+ }
+
+
+
+
+    
+
+
 
 // Invoca la funzione qui e stampa il risultato in console
 
