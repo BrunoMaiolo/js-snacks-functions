@@ -25,6 +25,6 @@ function filterByLetter(nameArray, letter){
 
 // Invoca la funzione qui e stampa il risultato in console
 
-
+console.log(filterByLetter(names, "A"));
 
 //Risultato atteso se si passa la lettera A: ["Anna", "Adele", "Alessandra"]
