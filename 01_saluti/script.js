@@ -5,8 +5,9 @@ const userName = 'Mario';
 
 // Dichiara la funzione qui.
 function greet(name) {
-    
+ return "Ciao " + name; 
 }
+console.log(greet(userName));
 
 // Invoca la funzione qui e stampa il risultato in console
 
