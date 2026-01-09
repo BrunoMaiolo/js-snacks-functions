@@ -8,6 +8,8 @@ function getInitials(nameArray){
     let initials = [];
     for (let i = 0; i < nameArray.length; i++) {
         let firstLetter = nameArray[i][0];
+        initials.push(firstLetter);
+
 
     }
 
