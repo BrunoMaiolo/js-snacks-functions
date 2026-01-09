@@ -13,7 +13,7 @@ function filterByLetter(nameArray, letter){
     filteredNames.push(nameArray[i]);
       } 
     }
-    
+    return  filteredNames;
  }
 
 
