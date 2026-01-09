@@ -10,7 +10,8 @@ const name = 'Mario';
 
 // Dichiara la funzione qui.
 function greetByTime(name, hour) {
-    
+    let greeting = "";
+
 }
 
 
