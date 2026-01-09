@@ -14,6 +14,7 @@ function countVowels(word) {
         }
 
     }
+    return count;
 }
 
 // Invoca la funzione qui e stampa il risultato in console
