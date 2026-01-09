@@ -11,6 +11,14 @@ const name = 'Mario';
 // Dichiara la funzione qui.
 function greetByTime(name, hour) {
     let greeting = "";
+    if (hour < 13) {
+        greeting = "Buongiorno";
+    } else if (hour <= 17) {
+        greeting = "Buon pomeriggio";
+    } else {
+        greeting = "Buonasera";
+    }
+    
 
 }
 
