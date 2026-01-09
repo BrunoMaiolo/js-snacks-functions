@@ -16,6 +16,6 @@ function getInitials(nameArray){
 
 // Invoca la funzione qui e stampa il risultato in console
 
-
+console.log(getInitials(names));
 
 //Risultato atteso: ["A", "L", "M", "A", "G", "A"]
