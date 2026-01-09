@@ -9,6 +9,9 @@ const name = 'Mario';
 
 
 // Dichiara la funzione qui.
+function greetByTime(name, hour) {
+    
+}
 
 
 // Invoca la funzione qui e stampa il risultato in console
