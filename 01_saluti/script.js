@@ -7,10 +7,10 @@ const userName = 'Mario';
 function greet(name) {
  return "Ciao " + name; 
 }
-console.log(greet(userName));
+
 
 // Invoca la funzione qui e stampa il risultato in console
-
+console.log(greet(userName));
 
 
 //Risultato atteso se si passa 'Mario': // ciao Mario
