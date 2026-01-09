@@ -5,7 +5,8 @@ const word = 'javascript';
 
 // Dichiara la funzione qui.
 function countVowels(word) {
-    
+    let count = 0;
+    let vowels = "aeiou";
 }
 
 // Invoca la funzione qui e stampa il risultato in console
