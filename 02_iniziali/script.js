@@ -5,7 +5,11 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
 
 // Dichiara la funzione qui.
 function getInitials(nameArray){
-    
+    let initials = [];
+    for (let i = 0; i < nameArray.length; i++) {
+        
+    }
+
 }
 
 // Invoca la funzione qui e stampa il risultato in console
