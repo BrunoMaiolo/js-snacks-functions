@@ -25,6 +25,7 @@ function greetByTime(name, hour) {
 
 // Invoca la funzione qui e stampa il risultato in console
 
+console.log(greetByTime(name, 18));
 
 
 //Risultato atteso se si passa 'Mario' alle 18: // Buonasera Mario.
